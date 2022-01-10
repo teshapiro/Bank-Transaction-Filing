@@ -1,0 +1,2 @@
+javac BankTransactionFiling.java
+java BankTransactionFiling
